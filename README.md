@@ -1,11 +1,11 @@
 # EventSearch
 
-•	Developed a web service with RESTful API using java servlets to handle HTTP requests and response.
-•	Created relational database MySQL to store user information and the searched results returned from Ticketmaster API.
-•	Designed recommendation algorithms by fetching user’s history database records.
-•	Built an interactive website using HTML, CSS and JavaScript that can search for nearby events, save favorite events.
-•	Used content-based recommendations algorithms based on categories of user history to match similar events.
-•	Implemented business logic of the application with java, deployed the server and database in AWS EC2.
+-	Developed a web service with RESTful API using java servlets to handle HTTP requests and response.
+-	Created relational database MySQL to store user information and the searched results returned from Ticketmaster API.
+-	Designed recommendation algorithms by fetching user’s history database records.
+-	Built an interactive website using HTML, CSS and JavaScript that can search for nearby events, save favorite events.
+-	Used content-based recommendations algorithms based on categories of user history to match similar events.
+-	Implemented business logic of the application with java, deployed the server and database in AWS EC2.
 
 ## Infrastructure 
 
